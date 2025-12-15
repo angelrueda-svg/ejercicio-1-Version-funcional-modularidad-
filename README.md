@@ -22,18 +22,18 @@ El objetivo principal es separar la lógica del programa en distintos módulos, 
 ├── __init__.py
 ├── drawer_logic.py
 └── main.py
-##  Conceptos aplicados
+ Conceptos aplicados
 
-###  Programación funcional
+  Programación funcional
 El programa se apoya en funciones específicas para realizar tareas concretas, evitando dependencias innecesarias y favoreciendo la claridad del código.
 
-###  Modularidad
+ Modularidad
 La lógica del programa está separada en distintos archivos, lo que permite:
 
 - Mejor organización  
 - Reutilización del código  
 - Mantenimiento más sencillo
-##  Propósito del proyecto
+  Propósito del proyecto
 
 Este ejercicio tiene como finalidad:
 
