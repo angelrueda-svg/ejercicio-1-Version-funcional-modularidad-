@@ -32,4 +32,13 @@ La lógica del programa está separada en distintos archivos, lo que permite:
 
 - Mejor organización  
 - Reutilización del código  
-- Mantenimiento más sencillo  
+- Mantenimiento más sencillo
+##  Propósito del proyecto
+
+Este ejercicio tiene como finalidad:
+
+- Practicar la organización modular en Python  
+- Comprender la separación de responsabilidades  
+- Aplicar buenas prácticas en programación funcional  
+- Servir como base para proyectos más complejos  
+
